@@ -3,7 +3,7 @@ package practicejava;
 import java.util.ArrayList;
 
 public class duplicateInArray {
-
+	//this is duplicate
 	public static void main(String[] args) {
 		String[] s= {"java","python","java"};
 		ArrayList<String> al=new ArrayList<String>();
