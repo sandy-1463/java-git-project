@@ -24,7 +24,7 @@ public class duplicateInArray {
 					System.out.println(s[i]+" "+k+"  "+"time");
 			}
 			
-			
+			//second commit
 		}
 		
 		
