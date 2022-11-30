@@ -2,7 +2,7 @@ package practicejava;
 
 import java.util.HashMap;
 import java.util.Set;
-
+//charcter
 public class CharactersInString {
 
 	public static void main(String[] args) {
