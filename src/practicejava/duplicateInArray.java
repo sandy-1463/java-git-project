@@ -1,7 +1,7 @@
 package practicejava;
 
 import java.util.ArrayList;
-
+//add comment
 public class duplicateInArray {
 	//this is duplicate
 	public static void main(String[] args) {
